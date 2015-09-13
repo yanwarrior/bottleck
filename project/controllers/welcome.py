@@ -11,4 +11,4 @@ def index():
 		'90AS', 'Lenya', 'Engineer', 'lenya@mail.com', 44
 	)
 	employees = employees.get_all_employees()
-	return template('welcome', message='Welcome To Bottle MVC', svg_data=svg_file, employees=employees)
+	return template('bottleck/welcome', message='Welcome To Bottle MVC', svg_data=svg_file, employees=employees)
