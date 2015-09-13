@@ -1,12 +1,12 @@
 # bottleck
 Bottleck Custom To MVC Pattern
 
-## How To Use ?
+##### How To Use ?
 ```
 $ pip install -r requirements.txt
 ```
 
-## How To Running ?
+##### How To Running ?
 ```
 $ python run.py
 ```
