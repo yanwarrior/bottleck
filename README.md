@@ -4,12 +4,12 @@ Bottleck Custom To MVC Pattern
 ### Welcome Page
 ![welcome](https://binderyanwar.files.wordpress.com/2015/09/screenshot-from-2015-09-14-014941.png)
 
-### How To Use ?
+### Prepare
 ```
 $ pip install -r requirements.txt
 ```
 
-### How To Running ?
+### Running Via `run` file ?
 ```
 $ python run.py
 
@@ -19,7 +19,7 @@ Hit Ctrl-C to quit.
 ```
 
 ### Command Line Manager
-**Running Server**
+**Running Server (via manager)**
 ```
 $ python manager.py -s localhost@8080
 ```
