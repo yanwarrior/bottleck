@@ -1,12 +1,12 @@
 ### bottleck
 Bottleck Custom To MVC Pattern
 
-##### How To Use ?
+### How To Use ?
 ```
 $ pip install -r requirements.txt
 ```
 
-##### How To Running ?
+### How To Running ?
 ```
 $ python run.py
 
@@ -15,7 +15,7 @@ Listening on http://0.0.0.0:8080/
 Hit Ctrl-C to quit.
 ```
 
-##### Command Line Manager
+### Command Line Manager
 **Running Server**
 ```
 $ python manager.py -s localhost@8080
@@ -46,6 +46,7 @@ $ python manager.py -b base
 $ python manager.py -s all
 ```
 
+**Help**
 ```
 usage: manager.py [-h] [-c CONTROLLER] [-m MODEL] [-v VIEW] [-b VIEWBASE]
                   [-a SHOWALL] [-s SERVE]
